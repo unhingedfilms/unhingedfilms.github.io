@@ -1,0 +1,18 @@
+.navbar-bg {
+    background-color: #ff4d6d;
+}
+
+@media (max-width: 1024px) {
+    .main-content {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+
+.author-box .author-box-name {
+    font-size: 34px;
+}
+
+.author-box .author-box-picture {
+    width: 294px;
+}
